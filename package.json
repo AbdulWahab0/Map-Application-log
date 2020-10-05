@@ -1,7 +1,7 @@
 {
   "name": "map-marker",
   "version": "1.0.0",
-  "description": "Map Marker",
+  "description": "Map Marker Application",
   "main": "src/server/index.js",
   "scripts": {
     "build": "webpack --mode production",
