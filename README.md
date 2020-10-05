@@ -1,4 +1,4 @@
-# simple-FullStack-Map-Maker-APP (React,Nodejs,MongoDB)
+# Simple-FullStack-Map-Maker-APP 🌐 📍
 
 [![Build Status](https://travis-ci.org/crsandeep/simple-react-full-stack.svg?branch=master)](https://travis-ci.org/crsandeep/simple-react-full-stack)
 
