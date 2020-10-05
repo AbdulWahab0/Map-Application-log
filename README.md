@@ -23,7 +23,34 @@ This is a boilerplate to build a full stack web application using React, Node.js
 
 ## Introduction
 
-This is simple Application which helps users to add makrker on the app and save the  name of that place, When user vist the  the map page again then user can see his makred place and user can also  add new Maker, eidt place name and also upload the image . This application is short porject which can be extended at higher level in future.
+This is simple Application which helps users to add makrker 📍 on the app and save the  name of that place, When user vist the  the map page again then user can see his makred place and user can also  add new Maker 📍, eidt place name and also upload the image . This application is short porject which can be extended at higher level in future.
+
+## Features ✨
+* **Add a place marker** Clicking on the map add a place marker (stored in the backend)
+* **Show Existing Marker** Clicking on an existing marker shows its properties in a popup window (name, image).
+* **Edit a Marker (Place)** - Clicking on an existing marker show the popup window allows to edit name and image URL.
+* **Delete a Marker** - Clicking on an existing marker show the popup window allows to delete the Marker.
+* **Show all Existing Marker** - Reloading or HomePage show all the Markers.
+
+## Sections 
+✔️ Shows Existing Markers\
+✔️ Shows pop up window \
+✔️ Remove and edit Marker\
+
+## Technologies used 🛠️
+- [React](https://reactjs.org/)
+- [Node.js](https://redux.js.org/) 
+- [MongoDB](https://www.mongodb.com/) 
+- [LeadfLet js](https://leafletjs.com/) 
+- [Open Street Map](https://www.openstreetmap.org/) 
+
+## Concepts Implemented
+- HTML5 and CSS3:Grid,
+- React: Components, Props, Events, Hooks, Router, Axios
+- Node & Express: Web API, Body Parser, File Upload, JWT
+- MongoDB: Mongoose, Aggregation
+- Development: ESLint, Babel, Git, Github,
+- Libararies: LeadfLet Js,Open Street Map
 
 ### Development mode
 
