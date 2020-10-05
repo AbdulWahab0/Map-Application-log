@@ -1,4 +1,4 @@
-# Simple-FullStack-Map-Maker-APP 🌐 📍
+# Simple-FullStack-Map-APP 🌐 📍
 
 [![Build Status](https://travis-ci.org/crsandeep/simple-react-full-stack.svg?branch=master)](https://travis-ci.org/crsandeep/simple-react-full-stack)
 
@@ -23,9 +23,7 @@ This is a boilerplate to build a full stack web application using React, Node.js
 
 ## Introduction
 
-[Create React App](https://github.com/facebook/create-react-app) is a quick way to get started with React development and it requires no build configuration. But it completely hides the build config which makes it difficult to extend. It also requires some additional work to integrate it with an existing Node.js/Express backend application.
-
-This is a simple full stack [React](https://reactjs.org/) application with a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) backend. Client side code is written in React and the backend API is written using Express. This application is configured with [Airbnb's ESLint rules](https://github.com/airbnb/javascript) and formatted through [prettier](https://prettier.io/).
+This is simple Application which helps users to add makrker on the app and save the  name of that place, When user vist the  the map page again then user can see his makred place and user can also  add new Maker, eidt place name and also upload the image . This application is short porject which can be extended at higher level in future.
 
 ### Development mode
 
