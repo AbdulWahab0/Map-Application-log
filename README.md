@@ -45,12 +45,65 @@ This is simple Application which helps users to add makrker 📍 on the app and 
 - [Open Street Map](https://www.openstreetmap.org/) 
 
 ## Concepts Implemented
-- HTML5 and CSS3:Grid,
+- HTML5 and CSS3,
 - React: Components, Props, Events, Hooks, Router, Axios
 - Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Git, Github,
 - Libararies: LeadfLet Js,Open Street Map
+
+## Sections 
+
+✔️ **Show Default Map No Marker**   
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="defaultPage.png"></img>
+	</a>
+  </kbd>
+</p>
+
+
+✔️  **Now Add Marker** 
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="Homepage.png"></img>
+	</a>
+  </kbd>
+</p>
+
+✔️ **Show Popup Window Edit Place Name, Image**   
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="popUp.png"></img>
+	</a>
+  </kbd>
+</p>
+
+✔️ **Show New Added Place**  
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="showaddedMarker.png"></img>
+	</a>
+  </kbd>
+</p>
+
+✔️ **After Deleting Some Markers**  
+
+<p align="center"> 
+  <kbd>
+  	<a href="#" target="_blank">
+		<img src="deleteMarker.png"></img>
+	</a>
+  </kbd>
+</p>
 
 ### Development mode
 
@@ -64,10 +117,10 @@ In the production mode, we will have only 1 server running. All the client side 
 
 ```bash
 # Clone the repository
-git clone https://github.com/crsandeep/simple-react-full-stack
+git clone https://github.com/AbdulWahab0/Map-Application-log
 
 # Go inside the directory
-cd simple-react-full-stack
+cd Map-Application-log
 
 # Install dependencies
 yarn (or npm install)
@@ -80,6 +133,9 @@ yarn build (or npm run build)
 
 # Start production server
 yarn start (or npm start)
+
+# Start MonoDB
+sudo mondod (for Mac --> Make sure that mongoDb is install and running on your system)
 ```
 
 ## Documentation
