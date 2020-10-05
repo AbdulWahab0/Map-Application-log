@@ -1,4 +1,4 @@
-# Simple-FullStack-Map-APP 🌐 📍
+# Simple-FullStack-Map-App 🌐 📍
 
 [![Build Status](https://travis-ci.org/crsandeep/simple-react-full-stack.svg?branch=master)](https://travis-ci.org/crsandeep/simple-react-full-stack)
 
@@ -105,7 +105,18 @@ This is simple Application which helps users to add makrker 📍 on the app and 
   </kbd>
 </p>
 
-### Development mode
+## Deployment 📦 
+Once you have done with your setup. You need to put your website online!
+I highly recommend to use [heroku](https://devcenter.heroku.com/articles/nodejs-support/) to achieve this on the EASIEST WAY
+
+## Contributors ✨
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AbdulWahab0"><br /><sub><b>Abdul Wahab</b></sub></a><br /><a href="https://github.com/AbdulWahab0" title="Code">💻</a> <a href="https://github.com/AbdulWahab0" title="Documentation">📖</a> <a href="https://github.com/AbdulWahab0" title="Design">🎨</a> <a href="https://github.com/AbdulWahab0" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
+
+## Development mode
 
 In the development mode, we will have 2 servers running. The front end code will be served by the [webpack dev server](https://webpack.js.org/configuration/dev-server/) which helps with hot and live reloading. The server side Express code will be served by a node server using [nodemon](https://nodemon.io/) which helps in automatically restarting the server whenever server side code changes.
 
